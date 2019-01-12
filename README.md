@@ -24,7 +24,13 @@ java Hangman
 
 ### Example Run
 
-Explain what these tests test and why
+Example run of player winning
+
+<img width="232" alt="screen shot 2019-01-12 at 2 38 45 pm" src="https://user-images.githubusercontent.com/32502126/51079257-e1b2f880-1678-11e9-876e-f4b00613a450.png">
+
+Example run of player loosing
+
+
 
 
 ## Authors
