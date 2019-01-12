@@ -30,8 +30,7 @@ Example run of player winning
 
 Example run of player loosing
 
-
-
+<img width="233" alt="screen shot 2019-01-12 at 2 36 45 pm" src="https://user-images.githubusercontent.com/32502126/51079293-67cf3f00-1679-11e9-9707-6d0edb73b99b.png">
 
 ## Authors
 
